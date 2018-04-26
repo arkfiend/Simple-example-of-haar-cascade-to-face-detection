@@ -1,0 +1,207 @@
+easy/0_Parade_marchingband_1_849.jpg
+1
+449 330 122 149
+easy/0_Parade_Parade_0_904.jpg
+1
+361 98 263 339
+easy/0_Parade_Parade_0_577.jpg
+1
+294 300 455 582
+easy/0_Parade_Parade_0_883.jpg
+1
+532 168 219 287
+easy/0_Parade_marchingband_1_873.jpg
+1
+439 182 185 254
+easy/0_Parade_marchingband_1_925.jpg
+1
+273 327 276 372
+easy/0_Parade_Parade_0_332.jpg
+3
+398 540 210 282
+599 810 47 64
+863 932 23 36
+easy/0_Parade_Parade_0_761.jpg
+1
+207 459 330 441
+easy/0_Parade_marchingband_1_1038.jpg
+2
+332 128 210 296
+542 232 184 266
+easy/0_Parade_marchingband_1_641.jpg
+1
+349 179 171 221
+easy/0_Parade_Parade_0_829.jpg
+1
+501 160 285 443
+easy/0_Parade_marchingband_1_353.jpg
+2
+263 381 113 169
+635 271 134 169
+easy/0_Parade_marchingband_1_818.jpg
+1
+643 336 324 553
+easy/0_Parade_Parade_0_616.jpg
+5
+114 162 70 106
+254 118 84 112
+472 42 84 112
+666 136 70 96
+764 112 92 110
+easy/0_Parade_marchingband_1_156.jpg
+3
+164 248 68 74
+568 250 64 68
+872 186 82 106
+easy/0_Parade_Parade_0_545.jpg
+2
+152 188 306 466
+614 362 264 320
+easy/0_Parade_Parade_0_429.jpg
+3
+154 262 106 122
+390 222 116 144
+610 230 94 132
+easy/0_Parade_Parade_0_757.jpg
+1
+238 52 204 310
+easy/0_Parade_Parade_0_364.jpg
+5
+206 130 142 180
+358 106 92 138
+566 134 90 114
+654 118 74 90
+800 172 60 86
+easy/1_Handshaking_Handshaking_1_762.jpg
+2
+235 211 315 417
+615 438 185 214
+easy/1_Handshaking_Handshaking_1_362.jpg
+1
+104 10 482 508
+easy/1_Handshaking_Handshaking_1_94.jpg
+1
+381 207 237 354
+easy/1_Handshaking_Handshaking_1_457.jpg
+1
+248 66 514 664
+easy/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_938.jpg
+1
+483 261 108 156
+easy/10_People_Marching_People_Marching_2_934.jpg
+1
+446 196 114 152
+easy/10_People_Marching_People_Marching_2_433.jpg
+4
+614 346 157 222
+245 382 147 188
+353 222 108 168
+498 237 132 162
+easy/10_People_Marching_People_Marching_2_638.jpg
+1
+372 166 328 458
+easy/10_People_Marching_People_Marching_2_823.jpg
+1
+363 200 179 256
+easy/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_552.jpg
+1
+436 106 64 76
+easy/10_People_Marching_People_Marching_2_935.jpg
+1
+372 282 210 339
+easy/11_Meeting_Meeting_11_Meeting_Meeting_11_865.jpg
+1
+355 352 322 422
+easy/11_Meeting_Meeting_11_Meeting_Meeting_11_573.jpg
+4
+782 168 62 126
+536 194 96 110
+186 244 92 110
+74 138 94 178
+easy/11_Meeting_Meeting_11_Meeting_Meeting_11_633.jpg
+3
+464 240 186 214
+708 378 148 174
+178 494 162 132
+easy/11_Meeting_Meeting_11_Meeting_Meeting_11_250.jpg
+7
+347 168 35 50
+224 199 38 49
+101 118 42 61
+467 181 35 53
+597 142 39 53
+702 160 39 56
+859 130 52 64
+easy/11_Meeting_Meeting_11_Meeting_Meeting_11_320.jpg
+1
+434 80 182 230
+easy/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_789.jpg
+3
+299 162 51 68
+677 463 45 53
+519 595 54 76
+easy/12_Group_Large_Group_12_Group_Large_Group_12_527.jpg
+2
+324 408 93 117
+712 408 78 129
+easy/12_Group_Group_12_Group_Group_12_101.jpg
+8
+166 436 51 74
+350 207 51 63
+321 140 52 62
+479 128 50 59
+520 186 49 68
+661 133 56 61
+730 227 51 59
+829 140 52 70
+easy/12_Group_Group_12_Group_Group_12_198.jpg
+5
+174 422 68 88
+351 396 80 97
+491 414 66 86
+667 425 63 88
+847 411 68 86
+easy/12_Group_Large_Group_12_Group_Large_Group_12_448.jpg
+5
+298 152 260 244
+142 422 264 234
+590 110 188 238
+502 408 194 270
+728 272 210 232
+easy/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_889.jpg
+1
+592 50 78 110
+easy/12_Group_Large_Group_12_Group_Large_Group_12_650.jpg
+3
+282 238 88 110
+498 206 86 130
+810 172 78 108
+easy/12_Group_Group_12_Group_Group_12_759.jpg
+5
+68 114 58 120
+248 184 64 106
+378 114 62 96
+542 190 74 102
+832 130 70 120
+easy/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_644.jpg
+1
+148 152 210 274
+easy/9_Press_Conference_Press_Conference_9_129.jpg
+2
+336 242 152 202
+712 278 126 152
+easy/9_Press_Conference_Press_Conference_9_521.jpg
+1
+332 172 294 372
+easy/9_Press_Conference_Press_Conference_9_613.jpg
+1
+316 224 270 347
+easy/9_Press_Conference_Press_Conference_9_594.jpg
+1
+334 182 300 400
+easy/9_Press_Conference_Press_Conference_9_147.jpg
+1
+458 154 100 136
+easy/9_Press_Conference_Press_Conference_9_114.jpg
+1
+464 92 205 316
